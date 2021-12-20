@@ -1,0 +1,15 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "Aplicação sobre design pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript",
+    "Design Pattern"    
+  ],
+  "author": "Christian",
+  "license": "ISC"
+}
